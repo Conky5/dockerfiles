@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "testA": {
+      "packages": {
+        "testA-6.7.0-docker-build-context.tar.gz": {
+          "url": "http://0.0.0.0:8000/testA-6.7.0-docker-build-context.tar.gz"
+        }
+      }
+    },
+    "testB": {
+      "packages": {
+        "testB-6.7.0-docker-build-context.tar.gz": {
+          "url": "http://0.0.0.0:8000/testB-6.7.0-docker-build-context.tar.gz"
+        }
+      }
+    }
+  }
+}
